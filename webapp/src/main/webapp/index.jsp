@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping website</title>
+    <title>Flipkart and Amazon shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Flipkart Makara Sankranthi mobile offers available until 15th Jan 2025 **** </h1>   
+         <h1> **** Flipkart Makara Sankranthi mobile offers available until 30th Jan 2025 **** </h1>   
 	 
 
     </section>    
